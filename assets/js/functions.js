@@ -150,7 +150,6 @@ $( document ).ready(function() {
     }
 
   }
-
   function outerNav() {
 
     $('.header--nav-toggle').click(function(){
